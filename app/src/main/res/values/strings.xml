@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TourApp</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">destination</string>
+    <string name="tab_text_2">festival</string>
+    <string name="tab_text_3">Tribe</string>
+    <string name="tab_text_4">COUNTRY</string>
+    <string name="action_settings">Settings</string>
+    <string name="maasai">MAASAI MARA</string>
+    <string name="ghana_">ASHANTIS</string>
+    <string name="uganda">Uganda</string>
+    <string name="kampala_">Uganda officially the Republic of Uganda is a landlocked country (except for bordering a lake) in East-Central Africa.
+        It is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania. The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya and Tanzania.
+        Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin, and has a varied but generally a modified equatorial climate.
+
+Uganda takes its name from the Buganda kingdom, which encompasses a large portion of the south of the country, including the capital Kampala. The people of Uganda were hunter-gatherers until 1,700 to 2,300 years ago, when Bantu-speaking populations migrated to the southern parts of the country</string>
+    <string name="kenya_">Maasai Mara (Masai Mara) is situated in south-west Kenya and it is one of Africa’s Greatest Wildlife Reserves
+    \n  The Maasai Mara is an all year round destination with the big cats, and all the big game still in the Maasai Mara Ecosystem.</string>
+    <string name="Nigeria_">NIGERIA</string>
+    <string name="eyo_festival">EYO FESTIVAL \n\nThe Eyo Festival, otherwise known as the Adamu Orisha Play, is a Yoruba festival unique to Lagos, Nigeria.The word "Eyo" also refers to the costumed dancers, known as the masquerades that come out during the festival.\n
+     Back in the days, The Eyo festival is held to escort the soul of a departed Lagos King or Chief and to usher in a new king.</string>
+    <string name="ashanti_people">Ashanti also known as Asante are an ethnic group native to the Ashanti Region of modern-day Ghana.\n The people of ashanti speak the Asante dialect of Twi. Ashanti culture celebrates Adae, Adae Kese, Akwasidae, Awukudae and Ashanti Yam festival
+    \n The Ashanti state strongly resisted attempts by Europeans, mainly the British, to conquer them.
+        \The Ashanti limited British influence in the Ashanti region, as Britain annexed neighbouring areas.\n
+        The Ashanti were described as a fierce organized people whose king "can bring 200,000 men into the field and whose warriors are evidently not cowed by Sniper riflesand 7-pounder guns"</string>
+    <string name="continent">africa</string>
+    <string name="mainImage">mainImage</string>
+</resources>
